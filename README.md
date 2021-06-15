@@ -2,6 +2,8 @@
 ## What is Asgard?
 Asgard is a micro-service cluster designed and developed by the School of Computer Science's Technical team at The Unniversity of Lincoln.
 
+It was developed by [TReed1104](https://github.com/treed1104), I've forked it so that can can easily make changes, due to the change in Ubuntu Version.
+
 Each service has been designed and developed with the microservice architecture pattern in mind for scalability and reliability.
 
 The following template repositories are available for generating new services or frontend apps for the stack:
